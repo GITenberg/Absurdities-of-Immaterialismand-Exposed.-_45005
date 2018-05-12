@@ -1,0 +1,32 @@
+_repo: Absurdities-of-Immaterialismand-Exposed.-_45005
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Pratt, Orson
+    birthdate: 1811
+    deathdate: 1881
+    gutenberg_agent_id: '42981'
+    url: http://www.gutenberg.org/2009/agents/42981
+    wikipedia: http://en.wikipedia.org/wiki/Orson_Pratt
+description: ''
+gutenberg_bookshelf: Latter Day Saints
+gutenberg_issued: '2014-02-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45005'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Mormon Church -- Controversial literature'
+- !lcsh 'Taylder, T. W. P. Materialism of the Mormons or Latter-day Saints, examined
+  and exposed'
+- !lcc 'BX'
+title: "Absurdities of Immaterialism\r\nOr, A Reply to T. W. P. Taylder's Pamphlet,\
+  \ Entitled, \"The Materialism of the Mormons or Latter-Day Saints, Examined and\
+  \ Exposed.\""
+url: http://www.gutenberg.org/ebooks/45005
